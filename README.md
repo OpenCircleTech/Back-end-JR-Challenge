@@ -33,6 +33,7 @@ A api consiste em algumas entidades:
 - Passos para execução do projeto.
 
 ## Requisitos
+ - Usar língua inglesa para escrita do código
  - Usar NodeJs + TypeScript
  - Banco de dados Postgres
  - Adicionar swagger 
