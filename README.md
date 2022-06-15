@@ -39,9 +39,8 @@ A api consiste em algumas entidades:
  -  API RestFull
  - Você é livre para utilizar algum framework node ex: Nest 
  - Você é livre para definir a modelagem e organização das features a serem implementadas.
- - Lembre-se, não tenha pressa! Iremos avaliar a qualidade do seu código, mesmo incompleto e principalmente a sua semântica. Em caso de dúvida, mande um e-mail para carlos.moreira@opencircle.com.br ou (11) 992629522
 
-##### O que será avaliado
+## O que será avaliado
  - Organização do projeto.
  - Simplicidade da implementação.
  - Modelagem do Banco de Dados.
@@ -49,3 +48,8 @@ A api consiste em algumas entidades:
  - Utilização correta dos status HTTP (200, 404, 500, etc...)
  Processo de build.
  - Qualidade dos testes (é um diferencial).
+
+## Dúvidas
+Caso não encontre a sua resposta, sinta-se à vontade para abrir uma issue =]
+
+
